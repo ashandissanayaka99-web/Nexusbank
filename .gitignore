@@ -1,0 +1,36 @@
+# ---------- OS junk ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Editor ----------
+.vscode/
+.idea/
+*.sublime-project
+
+# ---------- Logs ----------
+*.log
+logs/
+
+# ---------- Environment / secrets ----------
+.env
+.env.local
+
+# ---------- Dependencies ----------
+vendor/
+node_modules/
+
+# ---------- Uploads / cache ----------
+uploads/
+tmp/
+cache/
+
+# ---------- Backups ----------
+*.sql.gz
+*.sql.bak
+backups/
+
+# ---------- XAMPP artifacts ----------
+*.swp
+
+
